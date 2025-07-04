@@ -10,7 +10,7 @@ Experienced UI/Frontend Tech Lead<br>React Enthusiast<br>Magento Subject Matter 
 # 🤓 GitHub Stats:
 ![](https://github-readme-stats-cyan-seven.vercel.app/api?username=edward-simpson&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=edward-simpson&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats-cyan-seven.vercel.app/api/top-langs/?username=edward-simpson&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-cyan-seven.vercel.app/api/top-langs/?theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🥄 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=edward-simpson&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
